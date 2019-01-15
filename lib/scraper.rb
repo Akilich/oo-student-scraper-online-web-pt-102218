@@ -40,7 +40,3 @@ class Scraper
     profile
   end
 end  
-  end
-
-end
-
